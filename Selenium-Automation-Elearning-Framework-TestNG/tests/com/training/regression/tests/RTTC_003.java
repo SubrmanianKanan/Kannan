@@ -22,6 +22,7 @@ public class RTTC_003 extends LoginTests {
 		registerPOM.clickForgottenpwlink();
 		registerPOM.enterloginEmail();
 		registerPOM.clickContinuebutton();
+		//comment
 
 }
 }
