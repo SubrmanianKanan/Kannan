@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36717" started-at="2020-04-05T18:08:59Z" finished-at="2020-04-05T18:09:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36717" started-at="2020-04-05T18:08:59Z" finished-at="2020-04-05T18:09:36Z">
+      <class name="com.training.regression.tests.RTTC_003">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.regression.tests.RTTC_003@3c5a99da]" name="setUpBeforeClass" is-config="true" duration-ms="32" started-at="2020-04-05T23:38:59Z" finished-at="2020-04-05T23:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.regression.tests.RTTC_003@3c5a99da]" name="setUp" is-config="true" duration-ms="18075" started-at="2020-04-05T23:38:59Z" finished-at="2020-04-05T23:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Registeruser()[pri:0, instance:com.training.regression.tests.RTTC_003@3c5a99da]" name="Registeruser" duration-ms="16773" started-at="2020-04-05T23:39:18Z" finished-at="2020-04-05T23:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registeruser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.regression.tests.RTTC_003@3c5a99da]" name="tearDown" is-config="true" duration-ms="1814" started-at="2020-04-05T23:39:34Z" finished-at="2020-04-05T23:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.regression.tests.RTTC_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
