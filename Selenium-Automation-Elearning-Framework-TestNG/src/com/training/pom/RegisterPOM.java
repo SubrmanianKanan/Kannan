@@ -117,7 +117,7 @@ private WebDriver driver;
 	
 	public void enterloginEmail()
 	{
-		this.Email.sendKeys("manzoor23073@gmail.com");
+		this.Email.sendKeys("manzoor23067@gmail.com");
 	}
 	
 	public void enterloginPassword()
